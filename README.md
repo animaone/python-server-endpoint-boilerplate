@@ -17,6 +17,3 @@ Como utilizar:
 
 
 
-
-
-criado por Hamilton Mendes: hamilton_j@gmx.com
