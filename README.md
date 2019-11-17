@@ -1,18 +1,17 @@
-					API para seleção de imóveis
+					A simple python server for selecting json data
 
-
-Como utilizar:
-	Execute o servidor:
+How to use:
+	Execute the server:
 		python3 server.py
 
-	Acesse as urls:
+	Access the urls:
 		Zap:
 		http://127.0.0.1:8001/api/?portal=zap
 
 		VivaReal:
 		http://127.0.0.1:8001/api/?portal=zap
 		
-	Para evitar que a porta 8001 fique bloqueada, feche o servidor com CTRL + C
+	For avoidind the door 8001 staying blocked close the server with CTRL + C
 
 
 
